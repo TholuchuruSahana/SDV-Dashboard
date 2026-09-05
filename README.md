@@ -200,9 +200,10 @@ ws://<robot-ip>:9090
 
 ```text
 SDV-Dashboard/
-│
-├── index.html
-└── README.md
+├── paper/
+│   └── SDV-Dashboard-Research-Paper.pdf
+├── README.md
+└── index.html
 ```
 
 ---
