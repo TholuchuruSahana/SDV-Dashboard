@@ -250,11 +250,9 @@ The results demonstrated that a lightweight browser-based interface can provide 
 ---
 ## Research Paper
 
-This dashboard is associated with the research paper:
+The detailed design, implementation, and evaluation of the SDV Dashboard are presented in the associated IEEE research paper.
 
-**"SDV Dashboard: A Lightweight Backend-Free Web-Based Dashboard for ROS 2 Robot Monitoring, Visualization, and Control"**
-
-The paper describes the architecture, implementation, features, evaluation, and design approach of the dashboard.
+📄 **[Read the Research Paper](paper/SDV-Dashboard-Research-Paper.pdf)**
 
 ---
 ## Project Contribution
